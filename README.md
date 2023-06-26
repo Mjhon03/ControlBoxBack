@@ -24,3 +24,12 @@ Por medio de esta base de datos se conocerá el nombre de los corresponsales y d
 3. Y dar en la opción "Execute".
 
 De esta manera la base de datos en su dispositivo.
+
+# <b>WCF Web Service</b>
+
+Es un proyecto en capas, el cual esta conformado por un WCF web service que cuenta con servicios que tienen la información que muestra la base de datos para que esta sea consumida por medio de API REST y finalmente por el cliente. Es un sistema para el control de giros realizados en las oficinas de diferentes corresponsales.
+
+# <b>Requisitos</b>
+Para que la solución funcione de manera correcta es necesario:
+- Visual Studio
+- .Net5.
