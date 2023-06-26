@@ -1,0 +1,7 @@
+C:\Users\mjhon\source\repos\Jhon Maicol Montoya Florez\ControlBoxWCF\bin\ControlBoxWCF.dll.config
+C:\Users\mjhon\source\repos\Jhon Maicol Montoya Florez\ControlBoxWCF\bin\ControlBoxWCF.dll
+C:\Users\mjhon\source\repos\Jhon Maicol Montoya Florez\ControlBoxWCF\bin\ControlBoxWCF.pdb
+C:\Users\mjhon\source\repos\Jhon Maicol Montoya Florez\ControlBoxWCF\obj\Debug\ControlBoxWCF.csproj.AssemblyReference.cache
+C:\Users\mjhon\source\repos\Jhon Maicol Montoya Florez\ControlBoxWCF\obj\Debug\ControlBoxWCF.csproj.CoreCompileInputs.cache
+C:\Users\mjhon\source\repos\Jhon Maicol Montoya Florez\ControlBoxWCF\obj\Debug\ControlBoxWCF.dll
+C:\Users\mjhon\source\repos\Jhon Maicol Montoya Florez\ControlBoxWCF\obj\Debug\ControlBoxWCF.pdb
